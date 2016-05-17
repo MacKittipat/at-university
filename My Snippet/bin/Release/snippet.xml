@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<snippets>
+  <snippet id="0">
+    <name>Name</name>
+    <language>Language</language>
+    <comment>Comment</comment>
+    <code>Code</code>
+  </snippet>
+  <snippet id="1">
+    <name>Msgbox</name>
+    <language>VB.NET</language>
+    <comment>msgbox</comment>
+    <code>Msgbox("")</code>
+  </snippet>
+  <snippet id="2">
+    <name>Write</name>
+    <language>Java</language>
+    <comment>write to output</comment>
+    <code>System.out.println("");</code>
+  </snippet>
+  <snippet id="3">
+    <name>Declare Variable</name>
+    <language>Java</language>
+    <comment></comment>
+    <code>Int i;</code>
+  </snippet>
+  <snippet id="4">
+    <name>Echo</name>
+    <language>PHP</language>
+    <comment></comment>
+    <code>echo "";</code>
+  </snippet>
+  <snippet id="5">
+    <name>include</name>
+    <language>PHP</language>
+    <comment></comment>
+    <code>include("");</code>
+  </snippet>
+  <snippet id="7">
+    <name>FOR</name>
+    <language>PHP</language>
+    <comment>FOR Comment</comment>
+    <code>FOR Code</code>
+  </snippet>
+</snippets>

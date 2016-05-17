@@ -1,0 +1,26 @@
+
+#all_content{
+    margin:15px auto;
+    width:1000px;
+    height:580px;
+    background:white;
+}
+#header{
+    background-image:url('../images/header.jpg');
+    background-repeat:no-repeat;
+    height:230px;
+}
+#content{
+    width:900px;
+    margin:auto;
+}
+#left{
+    width:450px;
+    height:300px;
+    float:left;
+}
+#right{
+    width:440px;
+    height:300px;
+    float:right;
+}

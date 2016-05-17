@@ -1,0 +1,12 @@
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\bin\Debug\My Snippet.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\bin\Debug\My Snippet.pdb
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\bin\Debug\My Snippet.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My_Snippet.frmMain.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My_Snippet.Resources.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My Snippet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My Snippet.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My Snippet.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My Snippet.pdb
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My_Snippet.frmAddSnippet.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Debug\My_Snippet.frmEditSnippet.resources

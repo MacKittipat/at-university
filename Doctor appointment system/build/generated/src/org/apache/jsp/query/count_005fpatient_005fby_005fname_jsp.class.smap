@@ -1,0 +1,12 @@
+SMAP
+count_005fpatient_005fby_005fname_jsp.java
+JSP
+*S JSP
+*F
++ 0 count_patient_by_name.jsp
+query/count_patient_by_name.jsp
+*L
+5,5:47
+13,13:52
+25:65
+*E

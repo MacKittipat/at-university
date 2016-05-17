@@ -1,0 +1,24 @@
+SMAP
+register_jsp.java
+JSP
+*S JSP
+*F
++ 0 register.jsp
+register.jsp
++ 1 logo.jspf
+component/logo.jspf
++ 2 bg-header.jspf
+component/bg-header.jspf
+*L
+5,42:51
+1#1,4:93
+46#0,4:96
+1#2:100
+49#0,11:101
+60:112,3
+61,5:115
+66:120,3
+67,60:123
+127:183,3
+128,6:186
+*E

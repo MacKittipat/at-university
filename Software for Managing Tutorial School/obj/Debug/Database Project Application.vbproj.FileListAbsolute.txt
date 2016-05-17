@@ -1,0 +1,60 @@
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\bin\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\bin\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\bin\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\Database_Project_Application.frmDatabaseProjectApplication.resources
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\Database_Project_Application.Resources.resources
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\Database Project Application.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\obj\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\bin\Debug\DatabaseProjectDB.mdf
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\bin\Debug\DatabaseProjectDB_log.ldf
+C:\Documents and Settings\Kittipat\My Documents\Visual Studio 2008\Projects\Database Project Application\bin\Debug\Database Project Application.exe.config
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe.config
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\bin\Debug\DatabaseProjectDB.mdf
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\bin\Debug\DatabaseProjectDB_log.ldf
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database_Project_Application.frmDatabaseProjectApplication.resources
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database_Project_Application.Resources.resources
+C:\Documents and Settings\Kittipat\Desktop\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kittipat\My Documents\Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe.config
+C:\Documents and Settings\Kittipat\My Documents\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\My Documents\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\My Documents\Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\My Documents\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe.config
+C:\Documents and Settings\Kittipat\My Documents\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\My Documents\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\My Documents\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe.config
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\DatabaseProjectDB.mdf
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\DatabaseProjectDB_log.ldf
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.pdb
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.xml
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database_Project_Application.frmDatabaseProjectApplication.resources
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database_Project_Application.Resources.resources
+C:\Documents and Settings\Kittipat\My Documents\Project KMUTT\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.vbproj.GenerateResource.Cache
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe.config
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.exe
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.xml
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.pdb
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\DatabaseProjectDB.mdf
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\DatabaseProjectDB_log.ldf
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.exe
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.pdb
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\bin\Debug\Database Project Application.xml
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database_Project_Application.frmDatabaseProjectApplication.resources
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database_Project_Application.Resources.resources
+D:\My Project\KMUTT Project\Project Database\Database Project Application บ้านฝึกฝน\obj\Debug\Database Project Application.vbproj.GenerateResource.Cache

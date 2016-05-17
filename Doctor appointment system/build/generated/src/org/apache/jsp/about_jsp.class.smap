@@ -1,0 +1,24 @@
+SMAP
+about_jsp.java
+JSP
+*S JSP
+*F
++ 0 about.jsp
+about.jsp
++ 1 logo.jspf
+component/logo.jspf
++ 2 bg-header.jspf
+component/bg-header.jspf
+*L
+5,29:51
+1#1,4:80
+33#0,4:83
+1#2:87
+36#0,11:88
+47:99,3
+48,5:102
+53:107,3
+54,19:110
+73:129,3
+74,5:132
+*E

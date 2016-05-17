@@ -1,0 +1,34 @@
+#login-loading
+{
+    display:none;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-image:url('../images/ajax-loader.gif');
+    height:170px;
+}
+
+#fs-loading
+{
+    height:170px;
+}
+
+#forgor-password:hover
+{
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+#login-failed
+{
+    text-align:center;
+    color:red;
+    display:none;
+}
+
+.require
+{
+    border: 2px solid red;
+    background-color:#f7b2b2;
+}
+
+

@@ -1,0 +1,26 @@
+SMAP
+viewprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewprofile.jsp
+viewprofile.jsp
++ 1 logo.jspf
+component/logo.jspf
++ 2 bg-header.jspf
+component/bg-header.jspf
+*L
+5,29:52
+1#1,4:81
+35#0,4:84
+1#2:88
+38#0,11:89
+49:100,3
+50,5:103
+55:108,3
+56,11:111
+67,17:123
+83,9:140
+92:149,3
+93,4:152
+*E

@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\bin\Debug\Lock My Screen.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\bin\Debug\Lock My Screen.pdb
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\bin\Debug\Lock My Screen.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\Lock_My_Screen.frmMain.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\Lock_My_Screen.Resources.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\Lock My Screen.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\Lock My Screen.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\Lock My Screen.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\Lock My Screen\obj\Debug\Lock My Screen.pdb

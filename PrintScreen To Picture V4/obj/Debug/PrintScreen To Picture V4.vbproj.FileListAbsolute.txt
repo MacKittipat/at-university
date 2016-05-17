@@ -1,0 +1,11 @@
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\bin\Debug\PrintScreen To Picture V4.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\bin\Debug\PrintScreen To Picture V4.pdb
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\bin\Debug\PrintScreen To Picture V4.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen_To_Picture_V4.frmPrintToPic.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen_To_Picture_V4.Resources.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen To Picture V4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen To Picture V4.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen To Picture V4.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen To Picture V4.pdb
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\PrintScreen To Picture V4\obj\Debug\PrintScreen To Picture V4.exe.licenses

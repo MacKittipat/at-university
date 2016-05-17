@@ -1,0 +1,10 @@
+<%@ page pageEncoding="UTF-8" %>
+<script type="text/javascript" src="lib/pages/menu-bar.js"></script>
+<div class="fg-toolbar ui-widget-header ui-corner-all ui-helper-clearfix">
+    <div class="fg-buttonset fg-buttonset-single ui-helper-clearfix ui-state-default ui-corner-all">
+        <a id="menu-bar-home" class="fg-button ui-state-default ui-corner-left">Home</a>
+        <a id="menu-bar-calendar" class="fg-button ui-state-default ">Calendar</a>
+        <a id="menu-bar-live-talk" class="fg-button ui-state-default ">Live Talk</a>
+        <a id="menu-bar-contact-us" class="fg-button ui-state-default ui-corner-right">Contact E-Fitness</a>
+    </div>
+</div>

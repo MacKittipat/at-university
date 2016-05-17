@@ -1,0 +1,12 @@
+SMAP
+count_005fdoctoy_005fby_005fdepartment_jsp.java
+JSP
+*S JSP
+*F
++ 0 count_doctoy_by_department.jsp
+query/count_doctoy_by_department.jsp
+*L
+5,5:47
+13,12:52
+24:64
+*E

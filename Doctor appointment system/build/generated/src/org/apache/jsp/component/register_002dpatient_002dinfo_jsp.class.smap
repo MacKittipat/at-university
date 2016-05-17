@@ -1,0 +1,10 @@
+SMAP
+register_002dpatient_002dinfo_jsp.java
+JSP
+*S JSP
+*F
++ 0 register-patient-info.jsp
+component/register-patient-info.jsp
+*L
+1,117:45
+*E

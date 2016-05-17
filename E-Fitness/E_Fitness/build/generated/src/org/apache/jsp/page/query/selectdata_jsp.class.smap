@@ -1,0 +1,12 @@
+SMAP
+selectdata_jsp.java
+JSP
+*S JSP
+*F
++ 0 selectdata.jsp
+page/query/selectdata.jsp
+*L
+1,4:47
+4:50,9
+6,30:60
+*E

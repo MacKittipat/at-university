@@ -1,0 +1,12 @@
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\bin\Release\My Snippet.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\bin\Release\My Snippet.pdb
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\bin\Release\My Snippet.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My_Snippet.frmAddSnippet.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My_Snippet.frmEditSnippet.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My_Snippet.frmMain.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My_Snippet.Resources.resources
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My Snippet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My Snippet.exe
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My Snippet.xml
+C:\Documents and Settings\Kittipat\My Documents\My Program Project\My Snippet\obj\Release\My Snippet.pdb
